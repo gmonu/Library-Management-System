@@ -1,6 +1,10 @@
 # Library-Management-System
 Library management system is all about organizing, managing the library and library-oriented tasks. It also involves maintaining the database of entering new books and the record of books that have been retrieved or issued, with their respective dates.
 
+# Software Used:
+Netbeans IDE
+Wamp Server
+
 # Objective of this project
 The main aim of this project is providing an easy to handle and automated library management system. This project also provides features and interface for maintaining librarian’s records, student’s history of issue and fines.
 
